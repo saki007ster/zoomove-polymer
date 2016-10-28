@@ -1,0 +1,40 @@
+{
+  "name": "zoomove-polymer",
+  "description": "A polymer element to use zoomove jquery plugin",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "zoomove"
+  ],
+  "authors": [
+    "Kumar, Saket <saki007ster@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test"
+  ],
+  "main": "zoomove-polymer.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "zoomove": "^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/saki007ster/zoomove-polymer",
+  "_release": "3139f86c97",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3139f86c97a728e982d653b126a5dc882021ed5c"
+  },
+  "_source": "git://github.com/saki007ster/zoomove-polymer.git",
+  "_target": "master",
+  "_originalSource": "saki007ster/zoomove-polymer",
+  "_direct": true
+}
